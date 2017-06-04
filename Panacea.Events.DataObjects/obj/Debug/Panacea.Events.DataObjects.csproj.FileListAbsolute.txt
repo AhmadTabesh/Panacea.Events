@@ -1,0 +1,4 @@
+D:\Projects\Temp\Panacea.Events\Panacea.Events.DataObjects\bin\Debug\Panacea.Events.DataObjects.dll
+D:\Projects\Temp\Panacea.Events\Panacea.Events.DataObjects\bin\Debug\Panacea.Events.DataObjects.pdb
+D:\Projects\Temp\Panacea.Events\Panacea.Events.DataObjects\obj\Debug\Panacea.Events.DataObjects.dll
+D:\Projects\Temp\Panacea.Events\Panacea.Events.DataObjects\obj\Debug\Panacea.Events.DataObjects.pdb

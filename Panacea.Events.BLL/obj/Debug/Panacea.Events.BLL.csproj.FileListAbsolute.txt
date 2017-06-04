@@ -1,0 +1,11 @@
+D:\Projects\Temp\Panacea.Events\Panacea.Events.BLL\bin\Debug\Panacea.Events.BLL.dll
+D:\Projects\Temp\Panacea.Events\Panacea.Events.BLL\bin\Debug\Panacea.Events.BLL.pdb
+D:\Projects\Temp\Panacea.Events\Panacea.Events.BLL\bin\Debug\Panacea.Events.DAL.dll
+D:\Projects\Temp\Panacea.Events\Panacea.Events.BLL\bin\Debug\Panacea.Events.DataObjects.dll
+D:\Projects\Temp\Panacea.Events\Panacea.Events.BLL\bin\Debug\EntityFramework.dll
+D:\Projects\Temp\Panacea.Events\Panacea.Events.BLL\bin\Debug\Panacea.Events.DAL.pdb
+D:\Projects\Temp\Panacea.Events\Panacea.Events.BLL\bin\Debug\Panacea.Events.DataObjects.pdb
+D:\Projects\Temp\Panacea.Events\Panacea.Events.BLL\bin\Debug\EntityFramework.xml
+D:\Projects\Temp\Panacea.Events\Panacea.Events.BLL\obj\Debug\Panacea.Events.BLL.csprojResolveAssemblyReference.cache
+D:\Projects\Temp\Panacea.Events\Panacea.Events.BLL\obj\Debug\Panacea.Events.BLL.dll
+D:\Projects\Temp\Panacea.Events\Panacea.Events.BLL\obj\Debug\Panacea.Events.BLL.pdb

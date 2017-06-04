@@ -1,0 +1,49 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Panacea.Events.Web", "Panacea.Events.Web\Panacea.Events.Web.csproj", "{7DB66504-5E67-4753-862E-A691F162D970}"
+	ProjectSection(ProjectDependencies) = postProject
+		{FC3B03E6-130C-405F-BC82-7523F0D38A34} = {FC3B03E6-130C-405F-BC82-7523F0D38A34}
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Panacea.Events.DAL", "Panacea.Events.DAL\Panacea.Events.DAL.csproj", "{68F022D8-6FE6-4ED0-9B7C-FB08A6F73637}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Panacea.Events.DataObjects", "Panacea.Events.DataObjects\Panacea.Events.DataObjects.csproj", "{90B8A305-5C6E-4A78-B7B7-29498BC2EF0B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Panacea.Events.Webservice", "Panacea.Events.Webservice\Panacea.Events.Webservice.csproj", "{FC3B03E6-130C-405F-BC82-7523F0D38A34}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Panacea.Events.BLL", "Panacea.Events.BLL\Panacea.Events.BLL.csproj", "{9C4B896D-88A7-47E6-9F63-3C9A43E496F6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7DB66504-5E67-4753-862E-A691F162D970}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7DB66504-5E67-4753-862E-A691F162D970}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7DB66504-5E67-4753-862E-A691F162D970}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7DB66504-5E67-4753-862E-A691F162D970}.Release|Any CPU.Build.0 = Release|Any CPU
+		{68F022D8-6FE6-4ED0-9B7C-FB08A6F73637}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{68F022D8-6FE6-4ED0-9B7C-FB08A6F73637}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{68F022D8-6FE6-4ED0-9B7C-FB08A6F73637}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{68F022D8-6FE6-4ED0-9B7C-FB08A6F73637}.Release|Any CPU.Build.0 = Release|Any CPU
+		{90B8A305-5C6E-4A78-B7B7-29498BC2EF0B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{90B8A305-5C6E-4A78-B7B7-29498BC2EF0B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{90B8A305-5C6E-4A78-B7B7-29498BC2EF0B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{90B8A305-5C6E-4A78-B7B7-29498BC2EF0B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FC3B03E6-130C-405F-BC82-7523F0D38A34}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FC3B03E6-130C-405F-BC82-7523F0D38A34}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FC3B03E6-130C-405F-BC82-7523F0D38A34}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FC3B03E6-130C-405F-BC82-7523F0D38A34}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9C4B896D-88A7-47E6-9F63-3C9A43E496F6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9C4B896D-88A7-47E6-9F63-3C9A43E496F6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9C4B896D-88A7-47E6-9F63-3C9A43E496F6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9C4B896D-88A7-47E6-9F63-3C9A43E496F6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

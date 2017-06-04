@@ -1,0 +1,12 @@
+D:\Projects\Temp\Panacea.Events\Panacea.Events.DAL\bin\Debug\Panacea.Events.DAL.dll.config
+D:\Projects\Temp\Panacea.Events\Panacea.Events.DAL\bin\Debug\Panacea.Events.DAL.dll
+D:\Projects\Temp\Panacea.Events\Panacea.Events.DAL\bin\Debug\Panacea.Events.DAL.pdb
+D:\Projects\Temp\Panacea.Events\Panacea.Events.DAL\bin\Debug\EntityFramework.dll
+D:\Projects\Temp\Panacea.Events\Panacea.Events.DAL\bin\Debug\EntityFramework.SqlServer.dll
+D:\Projects\Temp\Panacea.Events\Panacea.Events.DAL\bin\Debug\Panacea.Events.DataObjects.dll
+D:\Projects\Temp\Panacea.Events\Panacea.Events.DAL\bin\Debug\Panacea.Events.DataObjects.pdb
+D:\Projects\Temp\Panacea.Events\Panacea.Events.DAL\bin\Debug\EntityFramework.xml
+D:\Projects\Temp\Panacea.Events\Panacea.Events.DAL\bin\Debug\EntityFramework.SqlServer.xml
+D:\Projects\Temp\Panacea.Events\Panacea.Events.DAL\obj\Debug\Panacea.Events.DAL.csprojResolveAssemblyReference.cache
+D:\Projects\Temp\Panacea.Events\Panacea.Events.DAL\obj\Debug\Panacea.Events.DAL.dll
+D:\Projects\Temp\Panacea.Events\Panacea.Events.DAL\obj\Debug\Panacea.Events.DAL.pdb
